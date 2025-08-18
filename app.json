@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "sampleapp",
-    "slug": "sampleapp",
+    "name": "samplemobile",
+    "slug": "samplemobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "sampleapp",
+    "scheme": "samplemobile",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.markangeloignacio001.sampleapp"
+      "package": "com.markangeloignacio001.samplemobile"
     },
     "web": {
       "bundler": "metro",
@@ -42,7 +42,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "19dddd76-53c5-4854-9668-91e0c553443c"
+        "projectId": "e5988f5a-d402-4f77-89be-7e4fb33b2930"
       }
     }
   }
