@@ -9,7 +9,7 @@ export default function LoginScreen() {
   return (
     <View style={layout.colcenter}>
       <Text style={{ textAlign: "center", backgroundColor: color.lightred }}>
-        Login Screen From Folder
+        Login Screen From Screen
       </Text>
       <Button
         onPress={() => router.navigate("/+not-found")}

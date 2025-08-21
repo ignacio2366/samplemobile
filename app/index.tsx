@@ -9,7 +9,7 @@ const App = () => {
   }, []);
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Welcome to the Login Screen!</Text>
+      <Text>Welcome to the Main Screen</Text>
       <TouchableOpacity
         onPress={() => route.push("/login")}
         style={{ padding: 10, backgroundColor: "#D82A34", borderRadius: 5 }}
